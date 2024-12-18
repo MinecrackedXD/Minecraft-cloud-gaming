@@ -1,3 +1,7 @@
+let me sleep i made this repo today but i dont have time to actually put the files and add instructions.    :/
+expect files in around 7 days
+discord: minecrackedxd
+
 ## bedore you start asuming read this:
 so i know your probably thinking this is affiliated with eaglercraft or some it's playing minecraft in a browser and we all know how eaglercraft got dmca and all blah blah blah distributes minecraft src pirates it blah blah blah exetera yayaya.   ITS NOT
 
