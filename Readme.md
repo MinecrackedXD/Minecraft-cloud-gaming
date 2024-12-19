@@ -1,5 +1,4 @@
-let me sleep i made this repo today but i dont have time to actually put the files and add instructions.    :/
-expect files in around 7 days
+
 discord: minecrackedxd
 
 ## bedore you start asuming read this:
