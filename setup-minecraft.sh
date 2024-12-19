@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e  # Exit immediately if a command exits with a non-zero status
+
 # Update the system
 echo "Updating the system..."
 sudo apt update && sudo apt upgrade -y
@@ -15,7 +17,7 @@ export DISPLAY=:1
 
 # Download the official Minecraft Launcher
 echo "Downloading the official Minecraft Launcher..."
-wget https://launcher.mojang.com/download/Minecraft.deb -O Minecraft.deb
+wget -q https://launcher.mojang.com/download/Minecraft.deb -O Minecraft.deb
 
 # Install the Minecraft Launcher
 echo "Installing Minecraft Launcher..."
